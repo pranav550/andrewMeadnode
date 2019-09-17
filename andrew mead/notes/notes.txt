@@ -1,0 +1,16 @@
+readFileSync
+writeFileSync
+appendFileSync
+
+readFile
+writeFile
+appendFile
+
+npm package
+1)validator
+2)chalk
+3)yargs
+
+command:-
+console.log(process.argv)
+
